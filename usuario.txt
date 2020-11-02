@@ -1,0 +1,5 @@
+user.mail mauro-aknf@hotmail.com
+user.name Mauro
+user.name Mauro
+user.name mauro
+user.email mauro-aknf@hotmail.com
