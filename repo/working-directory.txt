@@ -1,0 +1,19 @@
+Working directory :
+
+	es la carpeta donde se lleva a cabo el trabajo de nuestro proyecto, generalmente utilizaremos las
+	herramientas de desarrollo elegidas por nosotros y rara vez la consola. xD
+
+
+COMANDOS:
+	CD (check directory)
+	nos permite navegas entre los directorios de las carpetas
+	cd .. vuelve a la carpeta anterior
+	
+
+mkdir make directory
+	permite crear directorios con los nombres que especifiquemos despues de comando
+	
+git init 
+	crea el repositorio de GIT
+
+
