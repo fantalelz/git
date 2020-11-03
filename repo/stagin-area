@@ -1,0 +1,10 @@
+ Stagin Area (index)
+	Es el area donde se registran los cambios, se hacen las capturas de codigo y donde
+	indicamos a git a que archivos vamos a realizarle seguimiento.
+
+COMANDO xD
+	
+GIT ADD (indica a git cuales son los archivos a registrar)
+	Git add *. agrega todos los archivos con la extension espesificada 
+	git add .  agrega todos los archivos que presenten diferencias con la cabecera 
+	git <add>  agrega el archivo espeficado
